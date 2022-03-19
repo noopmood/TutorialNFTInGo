@@ -1,0 +1,15 @@
+{
+  "description": "Silver coin",
+  "image": "https://openmoji.org/data/black/svg/1FA99.svg",
+  "name": "Silver",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "ID",
+      "value": "1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Gold coin",
+  "image": "https://openmoji.org/data/color/svg/1FA99.svg",
+  "name": "Gold",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "ID",
+      "value": "0"
+    }
+  ]
+}

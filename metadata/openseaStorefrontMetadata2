@@ -1,0 +1,8 @@
+{
+  "name": "Updated royalty tester 7784",
+  "description": "Updated description!",
+  "image": "https://gateway.pinata.cloud/ipfs/QmR3odC2C1ge9pf6ThfqAikFak6NQjra1WTXryCPRwWgxH/banana.jpg",
+  "external_link": "https://docs.opensea.io/docs/contract-level-metadata",
+  "seller_fee_basis_points": 200,
+  "fee_recipient": "0x2021140764e3D848350621e819B9410621c6074C"
+}
